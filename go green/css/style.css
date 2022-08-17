@@ -1,0 +1,53 @@
+#title {
+  background-color: rgb(26, 23, 23);
+  height: 640px;
+  margin: 0%;
+}
+
+#cause {
+  background-color: rgb(205, 235, 215);
+  padding: 5rem 5.5rem;
+  text-align: center;
+}
+#events {
+  background-color: darkslategrey;
+
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  background-color: white;
+}
+
+h1 {
+  position: relative;
+  color: white;
+  text-align: center;
+  padding: 8rem 5.5rem;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+.title-image {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.navbar {
+  position: relative;
+  top: auto;
+  padding: 1.8rem 3.5rem;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+.col {
+  border: 1px;
+}
+.card {
+  margin: auto;
+}
